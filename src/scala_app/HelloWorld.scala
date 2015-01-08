@@ -1,3 +1,5 @@
+package scala_app
+
 /**
  * User: Makar Kalancha
  * Date: 07/01/2015
